@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "mMobile: Building a mmWave Testbed to Evaluate and Address Mobility Effects"
+date:   2020-10-10 22:22:00 +00:00
+image: /images/mmobile.png
+categories: research
+author: "Raghav Subbaraman"
+authors: "Ish Jain, <strong>Raghav Subbaraman</strong>, Tejas Harekrishna Sadarahalli, Xiangwei Shao, Hou-Wei Lin, Dinesh Bharadia"
+venue: "mmNets 2020 Workshop (with ACM Mobicom'20)"
+slides: https://wcsng.ucsd.edu/mmobile/
+code: https://github.com/ucsdwcsng/mMobile
+---
