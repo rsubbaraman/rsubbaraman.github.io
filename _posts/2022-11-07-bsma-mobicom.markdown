@@ -6,6 +6,6 @@ image: /images/bsmafig1.png
 categories: research
 author: "Raghav Subbaraman"
 authors: "<strong>Raghav Subbaraman</strong>, Yeswanth Guntupalli, Shruti Jain, Rohit Kumar, Krishna Chintalapudi, and Dinesh Bharadia"
-venue: "ACM Conference on Mobile Computing and Networking (MobiCom) 2022"
+venue: "ACM Conference on Mobile Computing and Networking (MobiCom)"
 paper: "https://dl.acm.org/doi/10.1145/3495243.3560544"
 ---
