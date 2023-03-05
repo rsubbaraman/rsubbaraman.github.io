@@ -2,7 +2,7 @@
 layout: post
 title:  "BSMA: scalable LoRa networks using full duplex gateways"
 date:   2022-11-07 10:22:00 +00:00
-image: /images/bsma_fig1.png
+image: /images/bsmafig1.png
 categories: research
 author: "Raghav Subbaraman"
 authors: "<strong>Raghav Subbaraman</strong>, Yeswanth Guntupalli, Shruti Jain, Rohit Kumar, Krishna Chintalapudi, and Dinesh Bharadia"
