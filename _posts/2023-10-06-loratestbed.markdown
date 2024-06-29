@@ -11,4 +11,4 @@ paper: "https://dl.acm.org/doi/10.1145/3615591.3615676"
 # slides: https://wcsng.ucsd.edu/files/crescendo.pdf
 code: https://github.com/ucsdwcsng/loratestbed
 ---
-Open sourced an easy-to-use and set-up LoRa testbed developed as an offshoot from BSMA! If you are working on LoRa PHY or MAC layer research and need a testbe to test your systems, consider using this one! It works with all arduino-compatible devices and provides hooks into almost all PHY and MAC parameters.
+Open sourced an easy-to-use and set-up LoRa testbed developed as an offshoot from BSMA! If you are working on LoRa PHY or MAC layer research and need a testbed to test your systems, consider using this one! It works with all arduino-compatible devices and provides hooks into almost all PHY and MAC parameters.
