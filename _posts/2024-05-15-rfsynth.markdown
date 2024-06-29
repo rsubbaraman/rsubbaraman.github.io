@@ -5,7 +5,7 @@ date:   2024-05-15 10:22:00 +00:00
 image: /images/rfsynth.png
 categories: research
 author: "Raghav Subbaraman"
-authors: "Hari Prasad Sankar*, <strong>Raghav Subbaraman*<strong>, Tianyi Hu, Dinesh Bharadia (* equal contribution)" 
+authors: "Hari Prasad Sankar\*, <strong>Raghav Subbaraman\*<strong>, Tianyi Hu, Dinesh Bharadia (\* equal contribution)" 
 venue: "IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN 2024)"
 paper: "https://wcsng.ucsd.edu/files/rfsynth.pdf"
 # slides: https://wcsng.ucsd.edu/files/crescendo.pdf
