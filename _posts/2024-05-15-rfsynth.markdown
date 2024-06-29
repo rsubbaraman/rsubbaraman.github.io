@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "RFSynth: Data generation and testing platform for spectrum information systems"
+date:   2024-05-15 10:22:00 +00:00
+image: /images/rfsynth.png
+categories: research
+author: "Raghav Subbaraman"
+authors: "Hari Prasad Sankar*, <strong>Raghav Subbaraman*<strong>, Tianyi Hu, Dinesh Bharadia" (* equal contribution)
+venue: "IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN 2024)"
+paper: "https://wcsng.ucsd.edu/files/rfsynth.pdf"
+# slides: https://wcsng.ucsd.edu/files/crescendo.pdf
+# code: https://github.com/ucsdwcsng/loratestbed
+---
+An RF data generation framework which aims to address the challenges of limited data generation/testing platforms for spectrum sensing systems. The proposed framework combines simulation and real-world data generation methods to enable large and diverse data sets for training and testing RF ML models and spectrum sensing systems.
